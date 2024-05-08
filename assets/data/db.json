@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "perfumeName": "Ladies Omnia Crystalline EDT Spray Fragrances",
+        "price": 105,
+        "perfumeDescription": "Experience the sensual allure of Bvlgari's Omnia Crystalline, a Ladies EDT Spray that's as captivating as it is elegant. Launched in 2013 by the renowned design house of Bvlgari, this perfume is a sparkling fusion of radiant and delicate notes that perfectly epitomize the essence of femininity.",
+        "gender": false,
+        "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/b/v/bvlgari-ladies-omnia-crystalline-edt-spray-34-oz-fragrances-783320420566.jpg",
+    "company": "Bvlgari"
+  },
+  {
+    "id": "2",
+    "perfumeName": "Omnia Crystalline EDT Spray",
+    "price": 72,
+    "perfumeDescription": "Launch year: 2013. Top notes: Lotus flower, Mandarin orange. Heart notes: Heliotrope, Orris root. Base notes: Sandalwood, Siam benzoin, Musk. Design house: Bvlgari. Scent name: Bvlgari Omnia Crystalline. Gender: Ladies. Category: Perfume.",
+    "gender": false,
+    "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/o/m/omnia-crystalline-bvlgari-edt-spray-22-oz-w-783320922565.jpg",
+    "company": "Bvlgari"
+  },
+  {
+    "id": "3",
+    "perfumeName": "Guilty Black by EDT Spray",
+        "price": 82,
+        "perfumeDescription": "Launch year: 2017. Top notes: Orange, Green Notes. Heart notes: Natural Tuberose, Jasmine absolute, Jasmine bud extrac, Rangoon Creeper. Base notes: Orris root, Sandalwood, Vanilla. ",
+        "gender": true,
+        "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/g/u/gucci-guilty-black-by-gucci-edt-spray-30-oz-90-ml-737052626383.jpg",
+    "company":"Gucci"
+  },
+  {
+    "id": "4",
+    "perfumeName": "Bloom EDP Spray 3.3",
+        "price": 80,
+        "perfumeDescription": "Neodymium magnets and 40 millimeter drivers for powerful, detailed sound. Closed ear design provides comfort and outstanding reduction of external noises. 9.8 foot cord ends in gold plated plug and it is not detachable; 1/4 inch adapter included. Folds up for storage or travel in provided soft case. Frequency Response: 10 Hertz to 20 kilohertz. These large diaphragm, foldable headphones feature a rugged construction, a secure, highly effective closed ear design. Connectivity technology : Wired",
+        "gender": false,
+        "image": "https://cdn2.jomashop.com/media/catalog/product/g/u/gucci-ladies-gucci-bloom-edp-spray-1-oz-30-ml-8005610481081.jpg",
+    "company": "Gucci"
+  },
+  {
+    "id": "5",
+    "perfumeName": "Signature Eau De Parfum Spray",
+    "price": 31,
+    "perfumeDescription": "An oriental floral fragrance for modern women. Crisp, sweet, spicy, powdery, warm, feminine & appealing. Top note is Clementine. Middle notes are Magnolia, Ylang-Ylang & Peony",
+    "gender": false,
+    "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/m/o/montblanc-signature-eau-de-parfum-spray-50ml17oz-127067.jpg",
+    "company": "Montblanc"
+  },
+  {
+    "id": "6",
+    "perfumeName": "Men's Explorer Platinum EDP Spray",
+        "price": 53,
+        "perfumeDescription": "Launch year: 2023. Top notes: Violet leaves. Heart notes: Clary sage. Base notes: Cedarwood. Design house: Montblanc. Scent name: Explorer Platinum. Gender: Mens.",
+        "gender": true,
+        "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/m/o/montblanc-mens-explorer-platinum-edp-spray-34-oz-fragrances-3386460135818.jpg",
+    "company": "Montblanc"
+  },
+  {
+    "id": "7",
+    "perfumeName": "Explorer Mont Blanc EDP Spray",
+    "price": 45,
+    "perfumeDescription":"Step into the world of adventure with the Explorer EDP Spray by MontBlanc, a fragrance specially crafted for men with a thirst for exploration",
+    "gender": true,
+    "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/e/x/explorer-mont-blanc-edp-spray-33-oz-100-ml-m-124069.jpg",
+    "company":"Montblanc"
+  },
+  {
+    "id": "8",
+    "perfumeName": "Unisex Kirke Extrait De Parfum Spray",
+    "price": 89,
+    "perfumeDescription":"Launch year: 2015. Top notes: Pear, Raspberry, Passion fruit, Peach, Sand accord, Blackcurrant. Heart notes: Lily of the valley. Base notes: Heliotrope, Musk, Patchouli, Sandalwood, Vanilla.",
+    "gender": false,
+    "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/t/i/tiziana-terenzi-unisex-kirke-extrait-de-parfum-spray-338-oz-tester-fragrances-0908763216987.jpg",
+    "company": "Tiziana Terenzi"
+  },
+  {
+    "id": "9",
+    "perfumeName": "Delox Extrait De Parfum Natural Spray",
+        "price": 112,
+        "perfumeDescription":"Launch year: 2017. Top notes: Coffee, White hyacinth, Iris. Heart notes: Turkish rose, Vanilla, Opoponax. Base notes: Honey, White musk, Amber, Cedar. Design house: Tiziana Terenzi.",
+        "gender": false,
+        "image": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/t/i/tiziana-terenzi-delox-extrait-de-parfum-natural-spray-34-oz-100-ml-8016741882517.jpg",
+    "company": "Tiziana Terenzi"
+  }
+  ]
